@@ -1,3 +1,5 @@
+//Ceci est un scanner i2c en cpp
+
 #ifndef I2CSCAN
 #define I2CSCAN
 
